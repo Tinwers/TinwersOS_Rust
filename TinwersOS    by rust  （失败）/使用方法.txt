@@ -1,0 +1,2 @@
+先cd到本文件夹
+cargo run
